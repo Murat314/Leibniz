@@ -8,7 +8,7 @@ Imagine a machine that can think. Now enlarge it until you can walk inside, as y
 
 Leibniz posed this thought experiment in his *Monadology* in 1714. Inside the mill, he argued, you would see parts pushing one another. You could watch the whole mechanism work and still be left wondering how it gives rise to experience.
 
-To account for perception, Leibniz turned to *monads*, the simple substances he took to be the basic units of reality. Each monad expresses the same world from its own point of view, much as a city looks different depending on where you stand. Yet Leibniz gives these perspectives a striking limitation:
+To account for perception, Leibniz turned to *monads*, the simple substances he took to be the basic units of reality. Each monad expresses the same world from its own point of view, much as a city looks different depending on where you stand. Leibniz gives these perspectives a striking limitation:
 
 > “Monads have no windows through which anything could enter or depart.”
 >
